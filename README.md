@@ -47,9 +47,10 @@ A Python desktop application that automates supervised machine learning tasks th
 ```text
 SupervisedLearningApp/
 │
-├── main.py
-├── gui.py
-├── ml_engine.py
+├── src/ 
+│    ├──gui.py
+│    ├── ml_engine.py
+│    └──main.py
 ├── output/
 │   ├── output.csv
 │   └── report.txt
