@@ -1,0 +1,74 @@
+============================================================
+SUPERVISED LEARNING REPORT
+============================================================
+
+Problem Type : Classification
+
+Best Model : KNN
+Validation Accuracy : 0.9750
+Execution Time : 0.72 seconds
+
+------------------------------------------------------------
+ALL MODEL RESULTS
+------------------------------------------------------------
+
+Model : Logistic Regression
+Accuracy : 0.9000
+Precision : 0.9001
+Recall : 0.9000
+F1 Score : 0.8999
+Confusion Matrix:
+[[77  7]
+ [ 9 67]]
+
+----------------------------------------
+Model : Decision Tree
+Accuracy : 0.9125
+Precision : 0.9125
+Recall : 0.9125
+F1 Score : 0.9125
+Confusion Matrix:
+[[77  7]
+ [ 7 69]]
+
+----------------------------------------
+Model : Random Forest
+Accuracy : 0.9688
+Precision : 0.9688
+Recall : 0.9688
+F1 Score : 0.9687
+Confusion Matrix:
+[[82  2]
+ [ 3 73]]
+
+----------------------------------------
+Model : KNN
+Accuracy : 0.9750
+Precision : 0.9750
+Recall : 0.9750
+F1 Score : 0.9750
+Confusion Matrix:
+[[82  2]
+ [ 2 74]]
+
+----------------------------------------
+Model : Support Vector Machine
+Accuracy : 0.9313
+Precision : 0.9314
+Recall : 0.9313
+F1 Score : 0.9313
+Confusion Matrix:
+[[78  6]
+ [ 5 71]]
+
+----------------------------------------
+Model : Gaussian Naive Bayes
+Accuracy : 0.9062
+Precision : 0.9098
+Recall : 0.9062
+F1 Score : 0.9063
+Confusion Matrix:
+[[73 11]
+ [ 4 72]]
+
+----------------------------------------

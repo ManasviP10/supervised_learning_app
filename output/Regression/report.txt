@@ -1,0 +1,69 @@
+============================================================
+SUPERVISED LEARNING REPORT
+============================================================
+
+Problem Type : Regression
+
+Best Model : Linear Regression
+Best Validation R² : 1.0000
+Execution Time : 0.60 seconds
+
+------------------------------------------------------------
+ALL MODEL RESULTS
+------------------------------------------------------------
+
+Model : Linear Regression
+MAE  : 0.084734
+MSE  : 0.011596
+RMSE : 0.107683
+R²   : 0.999998
+
+----------------------------------------
+Model : Decision Tree
+MAE  : 26.887004
+MSE  : 1195.117296
+RMSE : 34.570469
+R²   : 0.744846
+
+----------------------------------------
+Model : Random Forest
+MAE  : 17.227933
+MSE  : 590.872075
+RMSE : 24.307860
+R²   : 0.873851
+
+----------------------------------------
+Model : KNN
+MAE  : 15.444464
+MSE  : 487.863206
+RMSE : 22.087626
+R²   : 0.895843
+
+----------------------------------------
+Model : Support Vector Regressor
+MAE  : 28.363547
+MSE  : 2063.569490
+RMSE : 45.426528
+R²   : 0.559435
+
+----------------------------------------
+
+============================================================
+METRIC INFORMATION
+============================================================
+
+MAE (Mean Absolute Error)
+Average absolute difference between actual and predicted values.
+Smaller values are better.
+
+MSE (Mean Squared Error)
+Average squared prediction error.
+Large errors are penalized more heavily.
+
+RMSE (Root Mean Squared Error)
+Square root of MSE.
+Expressed in the same unit as the target variable.
+
+R² Score (Coefficient of Determination)
+Measures how well the model explains the variance.
+Closer to 1.0 indicates a better model.
