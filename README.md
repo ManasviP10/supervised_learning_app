@@ -54,7 +54,6 @@ SupervisedLearningApp/
 ├── output/
 │   ├── output.csv
 │   └── report.txt
-├── requirements.txt
 └── README.md
 ```
 
@@ -63,19 +62,13 @@ SupervisedLearningApp/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/SupervisedLearningApp.git
+git clone https://github.com/ManasviP10/SupervisedLearningApp.git
 ```
 
 2. Navigate to the project folder.
 
 ```bash
 cd SupervisedLearningApp
-```
-
-3. Install the required packages.
-
-```bash
-pip install -r requirements.txt
 ```
 
 4. Run the application.
@@ -124,6 +117,7 @@ Includes:
 * Model saving and loading
 * Data visualization dashboard
 * Deep learning model support
+* Data cleaning
 
 ## License
 
@@ -131,4 +125,7 @@ This project is released under the MIT License.
 
 ## Author
 
-Developed as a machine learning educational project using Python, Tkinter, and Scikit-learn.
+Manasvi Patil - (https://github.com/ManasviP10)
+
+
+Developed as a machine learning educational project using Python, Tkinter, and Scikit-le
