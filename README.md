@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/f2c56ae6-f63e-433d-999f-0412b590dee8
+
+
+
+
+
 # Supervised Learning App
 
 A Python desktop application that automates supervised machine learning tasks through a simple graphical user interface (GUI). Users can upload training and testing datasets, select either **Classification** or **Regression**, and let the application automatically choose the best-performing machine learning model.
